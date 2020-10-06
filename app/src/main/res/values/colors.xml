@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#046BBC</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#1E93F1</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="white">#ffffff</color>
+    <color name="lbl_email">#333333</color>
+    <color name="input_login">#222222</color>
+    <color name="input_register">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register_hint">#999999</color>
+    <color name="btn_login_register">#929293</color>
+    <color name="btn_register">#929293</color>
+    <color name="btn_logut">#ff6861</color>
+
+</resources>
